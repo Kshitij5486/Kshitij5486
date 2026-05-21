@@ -10,8 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-srivastava-894b3b232/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kshitij5486/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](kshitijsrivastava213@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijsrivastava213@gmail.com)
 
 </div>
 
@@ -82,13 +81,9 @@ I'm a passionate **Systems & Backend Developer** with a deep interest in buildin
 <img src="https://github-readme-stats-swart-kappa.vercel.app/api?username=Kshitij5486&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
 <img src="https://github-readme-stats-swart-kappa.vercel.app/api/top-langs/?username=Kshitij5486&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
 
-<img src="https://github-readme-stats-swart-kappa.vercel.app/api/streak?username=Kshitij5486&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Kshitij5486&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%"/>
 
 </div>
-
----
-
-
 
 ---
 
