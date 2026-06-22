@@ -78,8 +78,7 @@ I'm a passionate **Systems & Backend Developer** with a deep interest in buildin
 
 <div align="center">
 
-<img src="https://github-readme-stats-swart-kappa.vercel.app/api?
-username=Kshitij5486&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-stats-swart-kappa.vercel.app/api?username=Kshitij5486&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" height="165"/>
 <img src="https://github-readme-stats-swart-kappa.vercel.app/api/top-langs/?username=Kshitij5486&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Kshitij5486&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%"/>
